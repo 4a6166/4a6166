@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 [![Skills](https://skillicons.dev/icons?i=py,pytorch,flask,lua,nodejs,ts,js,html,css,postgres,sqlite,mongodb,latex&theme=light)](https://skillicons.dev)
 
 I can't help it.
-I just like [![Skills](https://skillicons.dev/icons?i=neovim&theme=light)](https://neovim.io)
+I just like 
+
+[![Skills](https://skillicons.dev/icons?i=neovim&theme=light)](https://neovim.io)
